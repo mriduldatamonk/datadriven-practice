@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mridul_datamonk), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Users Per Device Type](./practice/sql/users-per-device-type) | SQL | Easy | 2026-10-05 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-10-05 |
 | [Longest Running Pipeline](./practice/sql/longest-running-pipeline) | SQL | Medium | 2026-10-05 |
 | [The Ones Nobody Calls](./practice/sql/the-ones-nobody-calls) | SQL | Medium | 2026-10-04 |
