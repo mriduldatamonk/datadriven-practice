@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mridul_datamonk), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Service Budget per Head](./practice/sql/service-budget-per-head) | SQL | Medium | 2026-10-07 |
 | [The Long Tail](./practice/sql/the-long-tail) | SQL | Medium | 2026-10-06 |
 | [Users Per Device Type](./practice/sql/users-per-device-type) | SQL | Easy | 2026-10-05 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-10-05 |
