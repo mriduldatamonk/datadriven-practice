@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mridul_datamonk), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Services at Median Uptime](./practice/sql/services-at-median-uptime) | SQL | Medium | 2026-10-09 |
 | [First Time Learners Per Day](./practice/sql/first-time-learners-per-day) | SQL | Medium | 2026-10-08 |
 | [Service Budget per Head](./practice/sql/service-budget-per-head) | SQL | Medium | 2026-10-07 |
 | [The Long Tail](./practice/sql/the-long-tail) | SQL | Medium | 2026-10-06 |
