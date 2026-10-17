@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mridul_datamonk), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-10-17 |
 | [Kings of the Aisle](./practice/sql/kings-of-the-aisle) | SQL | Medium | 2026-10-15 |
 | [Back Again](./practice/sql/back-again) | SQL | Medium | 2026-10-11 |
 | [Services at Median Uptime](./practice/sql/services-at-median-uptime) | SQL | Medium | 2026-10-09 |
