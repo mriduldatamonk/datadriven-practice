@@ -3,6 +3,7 @@
 Scored work from [DataDriven](https://datadriven.io/u/mridul_datamonk), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
+"Where You Stand" is a question that tricks in basic usage of window functions
 
 ## Practice
 
