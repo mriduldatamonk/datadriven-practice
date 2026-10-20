@@ -3,13 +3,12 @@
 Scored work from [DataDriven](https://datadriven.io/u/mridul_datamonk), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
-"Where You Stand" is a question that tricks in basic usage of window functions
 
 ## Practice
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-10-19 |
+| [Where You Stand](./practice/sql/where-you-stand) | SQL | Medium | 2026-10-19 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-10-17 |
 | [Kings of the Aisle](./practice/sql/kings-of-the-aisle) | SQL | Medium | 2026-10-15 |
 | [Back Again](./practice/sql/back-again) | SQL | Medium | 2026-10-11 |
