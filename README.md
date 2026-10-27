@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mridul_datamonk), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-10-27 |
 | [Top Campaign by User Revenue](./practice/sql/top-campaign-by-user-revenue) | SQL | Medium | 2026-10-26 |
 | [Error Category Breakdown](./practice/sql/error-category-breakdown) | SQL | Hard | 2026-10-26 |
 | [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Easy | 2026-10-25 |
