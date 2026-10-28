@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mridul_datamonk), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Stock Status](./practice/sql/stock-status) | SQL | Easy | 2026-10-28 |
 | [10 Lowest Uptime Services](./practice/spark/10-lowest-uptime-services) | Spark | Medium | 2026-10-27 |
 | [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-10-27 |
 | [Top Campaign by User Revenue](./practice/sql/top-campaign-by-user-revenue) | SQL | Medium | 2026-10-26 |
