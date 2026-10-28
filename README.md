@@ -12,7 +12,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mridul_datamonk), committe
 | [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-10-27 |
 | [Top Campaign by User Revenue](./practice/sql/top-campaign-by-user-revenue) | SQL | Medium | 2026-10-26 |
 | [Error Category Breakdown](./practice/sql/error-category-breakdown) | SQL | Hard | 2026-10-26 |
-| [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Easy | 2026-10-25 |
+| [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-10-25 |
 | [Users With Admin Tokens](./practice/sql/users-with-admin-tokens) | SQL | Medium | 2026-10-25 |
 | [Minimum Parallel Workers](./practice/sql/minimum-parallel-workers) | SQL | Hard | 2026-10-22 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-10-21 |
