@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mridul_datamonk), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-11-11 |
 | [Click-Through by Campaign](./practice/sql/click-through-by-campaign) | SQL | Medium | 2026-11-01 |
 | [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Easy | 2026-10-29 |
 | [Stock Status](./practice/sql/stock-status) | SQL | Easy | 2026-10-28 |
