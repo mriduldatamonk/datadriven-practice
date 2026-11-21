@@ -2,7 +2,7 @@
 
 *Ten services at the bottom of the reliability chart.*
 
-[Spark · Medium · on DataDriven](https://datadriven.io/problems/10_lowest_uptime_services)
+[Spark · Easy · on DataDriven](https://datadriven.io/problems/10_lowest_uptime_services)
 
 ## How it went
 

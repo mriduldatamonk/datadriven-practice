@@ -13,7 +13,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mridul_datamonk), committe
 | [Click-Through by Campaign](./practice/sql/click-through-by-campaign) | SQL | Medium | 2026-11-01 |
 | [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Medium | 2026-10-29 |
 | [Stock Status](./practice/sql/stock-status) | SQL | Easy | 2026-10-28 |
-| [10 Lowest Uptime Services](./practice/spark/10-lowest-uptime-services) | Spark | Medium | 2026-10-27 |
+| [10 Lowest Uptime Services](./practice/spark/10-lowest-uptime-services) | Spark | Easy | 2026-10-27 |
 | [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Easy | 2026-10-27 |
 | [Top Campaign by User Revenue](./practice/sql/top-campaign-by-user-revenue) | SQL | Medium | 2026-10-26 |
 | [Error Category Breakdown](./practice/sql/error-category-breakdown) | SQL | Hard | 2026-10-26 |
