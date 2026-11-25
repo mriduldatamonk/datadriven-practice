@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mridul_datamonk), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Easy | 2026-11-15 |
+| [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Hard | 2026-11-15 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-11-11 |
 | [Click-Through by Campaign](./practice/sql/click-through-by-campaign) | SQL | Medium | 2026-11-01 |
 | [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Medium | 2026-10-29 |
