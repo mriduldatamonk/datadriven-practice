@@ -1,6 +1,6 @@
 # Top Metric Values
 
-*The five highest numbers. No duplicates.*
+*The 5 highest numbers. No duplicates.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/top_metric_values)
 
