@@ -2,7 +2,7 @@
 
 *One pipeline outlasted them all.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/longest_running_pipeline)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/longest_running_pipeline)
 
 ## How it went
 
